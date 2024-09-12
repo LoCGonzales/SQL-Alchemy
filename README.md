@@ -101,5 +101,9 @@ For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater 
 
 For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
+### Resources
+During this module, I utilized class notes, recorded Zoom sessions, and class assignments. I also utilized reaching out to my classmates when running into issues to help problem solve the best I could. 
+Additionally referred to the websites: w3schools and Stack Overflow for further guidance.
+
 
 
